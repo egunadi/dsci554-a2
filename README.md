@@ -1,19 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/4tMba_qy)
-# DSCI 554 Assignment 9
 
-The lab contains R notebooks (`.Rmd` files) and [Jupyter](https://jupyter.org/) notebooks (`.ipynb` files).
+# DSCI 554 Assignment 2
 
-Use [RStudio](https://www.rstudio.com/products/rstudio/) to open `assignment.Rproj` (RStudio project file). You can start RStudio in the current folder from the command line with:
+[EbenGunadi_Assignment2.pptx](EbenGunadi_Assignment2.pptx) contains a presentation of the lab content.
 
-```bash
-open -a RStudio assignment.Rproj
-```
+Contents were procured via a [Jupyter](https://jupyter.org/) notebook, [UN_Data_Analysis.ipynb](UN_Data_Analysis.ipynb). Locally, this notebook was run on a Python 3.7.16 environment, but any newer version should work.
 
 ## Working with Notebooks
-
-### 🚀 Getting Started with RStudio
-
-See [Take a tour of RStudio’s IDE](https://rstudio.com/products/rstudio/). See also [RStudio Cloud Guide](https://rstudio.cloud/learn/guide) for the online version of RStudio.
 
 ### 🚀 Getting Started with JupyterLab
 
