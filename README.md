@@ -4,7 +4,7 @@
 
 [EbenGunadi_Assignment2.pptx](EbenGunadi_Assignment2.pptx) contains a presentation of the lab content.
 
-Contents were procured via a [Jupyter](https://jupyter.org/) notebook, [UN_Data_Analysis.ipynb](UN_Data_Analysis.ipynb). Locally, this notebook was run on a Python 3.7.16 environment, but any newer version should work.
+Contents were procured via [Jupyter](https://jupyter.org/) notebook [UN_Data_Analysis.ipynb](UN_Data_Analysis.ipynb). Locally, this notebook was run on a Python 3.7.16 environment, but any newer version should work.
 
 ## Working with Notebooks
 
